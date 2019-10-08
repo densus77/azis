@@ -1,25 +1,25 @@
 <?php
-blue='\e[1;34m'
- green='\e[1;32m'
- purple='\e[1;35m'
- cyan='\e[1;36m'
- red='\e[1;31m'
- white='\e[1;37m'
- yellow='\e[1;33m'
- lightgray='\e[0;37m'
+ $blue='\e[1;34m';
+ $green='\e[1;32m';
+ $purple='\e[1;35m';
+ $cyan='\e[1;36m';
+ $red='\e[1;31m';
+ $white='\e[1;37m';
+ $yellow='\e[1;33m';
+ $lightgray='\e[0;37m';
+$banner ="\033[1;31m
+ __  __           ____  _  _    ___  _  _
+|  \/  |___      |  _ \| || |  / _ \| || |
+| |\/| / __|     | | | | || |_| | | | || |_
+| |  | \__ \  _  | |_| |__   _| |_| |__   _|
+|_|  |_|___/ (_) |____/   |_|  \___/   |_|
 
-$banner = "echo -e $lightgray
-figlet -f slant                        " Ms D404 "
-echo -e $green"===============================================>
-echo -e $cyan
-echo "[~] NAMA SCRIPT  =   "$BITOCASH"Bitocash"
-echo "[~] AUTHOR BY    =   "$AUTHORBY"Abdul Ajis"
-echo "[~] CHANNEL YT   =   "$CHANNELYT"Ms.D404"
-echo "[~] EMAIL ME     =   "$EMAILME"muhammadajis681@gmail.com"
-echo -e $cyan
-echo -e $green"===============================================>
-echo -e $cyan
-echo -e $yellow"====>•[•] SELAMAT MENGGUNAKAN SCRIPT MS.D404 [>
-echo -e $green\n";
+\033[1;32m===========================================================
+\033[1;36m[~] NAMA SCRIPT  =   \033[1;33mBitocash
+\033[1;36m[~] AUTHOR BY    =   \033[1;33mAbdul Ajis
+\033[1;36m[~] CHANNEL YT   =   \033[1;33mMs.D404
+\033[1;36m[~] EMAIL ME     =   \033[1;33mmuhammadajis681@gmail.com
+\033[1;32m===========================================================
+\033[1;33m====>•[•] SELAMAT MENGGUNAKAN SCRIPT MS.D404 \n";
 echo $banner;
 ?>
