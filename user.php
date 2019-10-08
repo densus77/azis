@@ -8,8 +8,7 @@ blue='\e[1;34m'
  yellow='\e[1;33m'
  lightgray='\e[0;37m'
 
-
-echo -e $lightgray
+$banner = "echo -e $lightgray
 figlet -f slant                        " Ms D404 "
 echo -e $green"===============================================>
 echo -e $cyan
@@ -21,5 +20,6 @@ echo -e $cyan
 echo -e $green"===============================================>
 echo -e $cyan
 echo -e $yellow"====>•[•] SELAMAT MENGGUNAKAN SCRIPT MS.D404 [>
-echo -e $green
+echo -e $green\n";
+echo $banner;
 ?>
