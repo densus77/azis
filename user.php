@@ -12,6 +12,6 @@ $banner="\033[1;31m
 ∆ [~] EMAIL ME     =   muhammadajis681@gmail.com ∆
 ==================================================
 ";
-$bot="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjdFWjVxMFUiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvb2NrbGVzLmNvbVwvdFdpR2JPVXhBTTVLaHJJTj+%6IZ&NGTFV8";
+$bot="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjdFWjVxMFUiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvZHVpdC5jY1wvYUJrdDAifQFV8FV8";
 
 
