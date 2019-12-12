@@ -9,6 +9,7 @@ $banner="\033[1;31m
 ==================================================
 ∆ [~] AUTHOR BY    =   Abdul Ajis                ∆
 ∆ [~] CHANNEL YT   =   Ms.D404                   ∆
+∆ [~] CHANNEL Tele =   @koinplus                 ∆
 ∆ [~] EMAIL ME     =   muhammadajis681@gmail.com ∆
 ==================================================
 ";
